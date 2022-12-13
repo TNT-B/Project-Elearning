@@ -26,7 +26,7 @@ class OurStory2 extends Component{
 						<div className="row align-items-center d-flex">
 							<div className="col-lg-5 col-md-12 text-white m-b30">
 								<div className="heading-bx style1 mb-3">
-									<h2 className="title-head">CYBERSOFT - ĐÀO TẠO CHUYÊN GIA LẬP TRÌNH</h2>								
+									<h2 className="title-head">TECHNO - ĐÀO TẠO CHUYÊN GIA LẬP TRÌNH</h2>								
 								</div>
 								<p className="m-b30">Đào tạo cho mọi đối tượng từ người trái ngành, người mới bắt đầu, sinh viên công nghệ thông tin đến các bạn đã có có nghề lập trình. Đào tạo ra những lập trình viên tài năng, phát huy tố chất, tư duy lập trình, có định hướng để trở thành những lập trình chuyên nghiệp. Giáo trình được may đo và biên soạn dành riêng cho các bạn học lập trình.</p>
 								<Link to="/about-1" className="btn">Chi tiết</Link>
